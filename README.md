@@ -14,9 +14,10 @@ I am a Lead Data Analytics professional building toward deeper work across AI/ML
 
 ---
 
-## Current Focus
+## Skillsets
 
-- Strengthening practical AI/ML engineering skills
-- Building cloud and data engineering projects
-- Creating a public technical portfolio through focused, well-documented work
-- Organizing long-term learning into reusable engineering labs
+- Data analytics, business intelligence, and reporting
+- SQL, data modeling, dashboard development, and KPI tracking
+- Python, data preparation, automation, and analytical workflows
+- Cloud, AI/ML, and modern data engineering foundations
+- Stakeholder communication, requirement analysis, and delivery ownership
