@@ -1,23 +1,19 @@
 # Praveen Kumar Bakthavel
 
-**Lead - Data Analytics | AI/ML & Cloud Professional**
+**Data Analytics | AI/ML | Cloud & Data Engineering Professional**
 
-I am building a focused engineering portfolio across data analytics, AI/ML, cloud engineering, data engineering, and modern technical projects.
+I work across analytics, business intelligence, automation, cloud data platforms, and AI/ML-enabled data solutions. This GitHub profile is a concise landing page; my full professional portfolio is available at:
 
-[Portfolio](https://praveenbakthavel.github.io/) | [LinkedIn](https://www.linkedin.com/in/praveenbakthavel/)
+[Portfolio Website](https://praveenbakthavel.github.io/) | [LinkedIn](https://www.linkedin.com/in/praveenbakthavel/)
 
----
+## Focus Areas
 
-## About
+- Data Analytics
+- Analytics Engineering
+- Cloud Data Platforms
+- AI/ML Applications
+- Data Engineering
 
-I am a Lead Data Analytics professional building toward deeper work across AI/ML, cloud engineering, data engineering, and modern analytics systems.
+## Technologies
 
----
-
-## Skillsets
-
-- Data analytics, business intelligence, and reporting
-- SQL, data modeling, dashboard development, and KPI tracking
-- Python, data preparation, automation, and analytical workflows
-- Cloud, AI/ML, and modern data engineering foundations
-- Stakeholder communication, requirement analysis, and delivery ownership
+Python · SQL · PySpark · Databricks · BigQuery · GCP · Terraform · Docker · Kubernetes · Power BI · Qlik Sense · Scikit-learn
