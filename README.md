@@ -4,7 +4,7 @@
 
 I am building a focused engineering portfolio across analytics, AI/ML, cloud engineering, data engineering, and modern technical projects.
 
-[Portfolio](https://praveenbakthavel.github.io/) · [LinkedIn](https://www.linkedin.com/in/praveenbakthavel/)
+[Portfolio](https://praveenbakthavel.github.io/) | [LinkedIn](https://www.linkedin.com/in/praveenbakthavel/)
 
 ---
 
@@ -20,4 +20,3 @@ I am a Lead Data Analytics professional building toward deeper work across AI/ML
 - Building cloud and data engineering projects
 - Creating a public technical portfolio through focused, well-documented work
 - Organizing long-term learning into reusable engineering labs
-
