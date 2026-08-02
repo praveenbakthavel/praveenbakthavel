@@ -2,7 +2,7 @@
 
 **Lead - Data Analytics | AI/ML & Cloud Professional**
 
-I am building a focused engineering portfolio across analytics, AI/ML, cloud engineering, data engineering, and modern technical projects.
+I am building a focused engineering portfolio across data analytics, AI/ML, cloud engineering, data engineering, and modern technical projects.
 
 [Portfolio](https://praveenbakthavel.github.io/) | [LinkedIn](https://www.linkedin.com/in/praveenbakthavel/)
 
