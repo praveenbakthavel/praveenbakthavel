@@ -1,4 +1,4 @@
-# Hi, I'm Praveen Kumar Bakthavel
+# Praveen Kumar Bakthavel
 
 ## Data Analytics | Business Intelligence | Data Engineering | AI/ML
 
